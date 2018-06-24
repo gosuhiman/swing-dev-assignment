@@ -1,0 +1,25 @@
+{
+  "name": "swing-dev-assignment",
+  "version": "1.0.0",
+  "description": "SwingDev Node.js Recruitment Assignment",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "author": "Wojciech Ryczaj",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.1.6",
+    "rxjs": "^6.2.1",
+    "uniqid": "^5.0.3"
+  },
+  "devDependencies": {
+    "@types/express": "^4.16.0",
+    "@types/mongoose": "^5.0.18",
+    "@types/node": "^10.3.5",
+    "@types/uniqid": "^4.1.2",
+    "ts-node": "^7.0.0",
+    "typescript": "^2.9.2"
+  }
+}
