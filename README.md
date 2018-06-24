@@ -1,6 +1,9 @@
-#SwingDev Node.js Recruitment Assignment
+SwingDev Node.js Recruitment Assignment
+=======================================
 
-####1. Make order:
+1. Make order:
+--------------
+
 ```
 POST /api/orders
 ```
@@ -14,12 +17,16 @@ with body:
 ]
 ```
 
-####2. Static PDF:
+2. Static PDF:
+--------------
+
 ```
 GET /price-list.pdf
 ```
 
-####3. Order history:
+3. Order history:
+-----------------
+
 ```
 GET /api/orders
 ```
